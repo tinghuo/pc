@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+//html,body{
+//  height: 100%;
+//}
+a{
+    text-decoration: none;
+    color:#337ab7;
+}
+.e{
+    width: 100%;
+    height: 100%;
+    .e1{
+        width: 998px;
+        height: 100%;
+        margin: 0 auto;
+        padding: 2px 0;
+        .e2{
+            height: 100%;
+            overflow: hidden;
+            .e21{
+                    padding: 0px 0px 10px 0px;
+                    color: #999999;
+                    font-size: 12px;
+                    margin: 15px auto 15px auto;
+                    border-bottom: 1px dotted gray;
+            }
+            .e22{
+                width: 190px;
+                height: 397px;
+                border-top: 6px solid green;
+                float: left;
+                background-image: linear-gradient(to bottom,#dee6d6,white);
+                h3{
+                    padding: 0px 0px 12px 5px;
+                    margin: 16px 15px 5px 15px;
+                    color: #006600;
+                    font-size: 14px;
+                    border-bottom: 1px dotted gray;
+                }
+                ul{
+                    padding: 5px 10px 10px 20px;
+                    li{
+                        list-style: none;
+                        line-height: 30px;
+                        font-size: 12px;
+                    }
+                }
+            }
+            .e23{
+                margin: 0px 15px 15px 15px;
+                width: 762px;
+                height: 2500px;
+                float: left;
+                background-color: green;
+                .e231{
+                    width: 762px;
+                    height: 2500px;
+                    font-size: 14px;
+                    color: #120000;
+                   background-image: linear-gradient(to bottom,#dee6d6 10%,white 15%);
+                    h2{
+                        width: 762px;
+                        height: 21px;
+                        margin: 10px 0px 10px 0px;
+                        font-size: 18px;
+                        color: #006600;
+                        padding-top: 6px;
+                    }
+                    .e232{
+                        padding: 15px 20px;
+                        margin: 0px;
+                        font-size: 14px;
+                        border-top: 1px #FFFFFF solid;
+                        color: #000000;
+                        background: #FFFFFF; 
+                        min-height: 240px;
+                        line-height: 28px;
+                        text-indent: 2em;
+                    }
+                    tr{
+                        height: 50px;
+                        td{
+                            width: 760px;
+                            padding: 20px;
+                            margin-left: 20px;
+                        }
+                    }
+                    p{
+                        text-indent: 2em;
+                        line-height: 28px;
+                    }
+                    .j{
+                      float: right;  
+                    }
+                }
+            }
+        }
+    }
+}
